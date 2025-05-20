@@ -18,7 +18,7 @@ This repository contains Terraform configurations for deploying an **Azure Virtu
 
 ## 🔹 Setup Instructions
 1. Clone this repository:
-   git clone https://github.com/reponame/repository.git
+   git clone https://github.com/Rohitkandel/Azure-Terraform-Projects/blob/main/vnet-asg-nsg.git
    cd repository
 
 2. Initialize Terraform:
