@@ -24,30 +24,30 @@ Service Principal (optional): Required if the user lacks permissions to register
 **Usage**
 
 1. Clone the Repository
-git clone <repository-url>
-cd <repository-directory>
+  git clone <repository-url>
+  cd <repository-directory>
 
 2. Initialize Terraform
 
-terraform init
+  terraform init
 
 3. Plan the Deployment
    
-terraform plan
+  terraform plan
 
 4. Apply the Configuration
    
-terraform apply --auto-approve
+  terraform apply --auto-approve
 
 5. Verify Resources
 
-After deployment, verify the resources in the Azure Portal under the az104-rg5 resource group.
+  After deployment, verify the resources in the Azure Portal under the az104-rg5 resource group.
 
 6. Destroy Resources (Optional)
 
-To remove all resources, run:
+  To remove all resources, run:
 
-terraform destroy --auto-approve
+  terraform destroy --auto-approve
 
 **Security Notes**
 
