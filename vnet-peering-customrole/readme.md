@@ -24,7 +24,7 @@ Service Principal (optional): Required if the user lacks permissions to register
 **Usage**
 
 1. Clone the Repository
-  git clone <repository-url>
+  git clone https://github.com/Rohitkandel/Azure-Terraform-Projects/tree/main/vnet-peering-customrole
   cd <repository-directory>
 
 2. Initialize Terraform
