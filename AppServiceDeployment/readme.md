@@ -1,4 +1,4 @@
- ** App Service Deployment**
+**App Service Deployment**
        
 
 This project outlines a streamlined Azure web application deployment strategy. It begins by establishing a dedicated resource group and an App Service Plan to host the web application. Key to this approach is configuring "Prod" and "Stage" deployment slots within the Azure Web App. Different application versions are then deployed to these slots, allowing for thorough testing in the staging environment. Finally, a seamless slot swap promotes the new version to production with zero downtime, followed by validation to ensure everything functions as expected. This process enables agile, low-risk application updates.
